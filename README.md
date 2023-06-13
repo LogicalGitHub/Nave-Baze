@@ -1,2 +1,2 @@
 # Nave-Baze
-Data Mining Project.
+Model of Machine Learning.
