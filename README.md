@@ -1,2 +1,2 @@
 # Nave-Baze
-Data Mining project.
+Data Mining Project.
