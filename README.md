@@ -1,2 +1,2 @@
 # Nave-Baze
-We put some projects
+Data Mining project.
