@@ -1,2 +1,2 @@
 # naive
-data mining
+we put some projects
