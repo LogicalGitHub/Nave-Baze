@@ -1,2 +1,2 @@
 # Nave-Baze
-we put some projects
+We put some projects
